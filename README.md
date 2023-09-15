@@ -1,4 +1,4 @@
-# Mouse-Jiggler
+# brodie969/Mouse-Jiggler
 A fun prank that you can put on your friends/family/co-workers computers.
 
 ### How To Use
